@@ -4,4 +4,6 @@ target*
 .settings*
 *.iml
 test-output*
+.DS_Store
+.idea/
 
